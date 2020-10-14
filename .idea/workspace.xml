@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86bf4618-b8d9-4b3b-9105-805770e63b95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ijVvvmrDnTGwTSqqJEVCMpgJ2j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VAII/Home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86bf4618-b8d9-4b3b-9105-805770e63b95" name="Default Changelist" comment="" />
+      <created>1602421221345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602421221345</updated>
+      <workItem from="1602421222392" duration="13225000" />
+      <workItem from="1602435203386" duration="2000" />
+      <workItem from="1602486175889" duration="21000" />
+      <workItem from="1602492808770" duration="7484000" />
+      <workItem from="1602501095688" duration="2962000" />
+      <workItem from="1602538371084" duration="96000" />
+      <workItem from="1602669713023" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="405" key="FileChooserDialogImpl" timestamp="1602502688942">
+      <screen x="1920" y="173" width="1440" height="870" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/1920.173.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1602494996135" />
+    <state x="2475" y="405" key="FileChooserDialogImpl/1920.173.1440.870/0.0.1920.1050@1920.173.1440.870" timestamp="1602502688942" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1602421267430">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/1920.173.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1602421267430" />
+    <state x="667" y="124" width="585" height="801" key="find.popup" timestamp="1602433583231">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="124" width="585" height="801" key="find.popup/1920.173.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1602433583231" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1602493122202">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.173.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1602493122202" />
+  </component>
+</project>
